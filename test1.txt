@@ -1,4 +1,4 @@
-created test1.txt
+created test1.html
 
 <!DOCTYPE html>
 
