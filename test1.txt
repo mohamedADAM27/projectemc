@@ -1,3 +1,64 @@
 created test1.txt
 
-hi
+<!DOCTYPE html>
+
+<html>
+<head>
+  
+  <title>Form</title>
+</head>
+<body>
+  <h1>
+   welcome to our page!
+  </h1>
+  
+  <h3>fill the form</h3>
+  
+    <fieldset>
+      <legend>sign in</legend>
+      <form action="index.html">
+       <br>   <br>  
+       <label><mark>Name</mark>
+       </label>
+       <br>  <br>  
+       <input type="text" placeholder="your name">
+       <br>  <br>  
+       <label><mark>password</mark></label>
+       <br>  <br>  
+       <input type="password></iput>"
+       <br>  <br> 
+       <br>  <br>    
+       <label>DOB</label>
+       <br>  <br>   
+       <input type="date" placeholder="yyyy/MM/DD">
+       <br>  <br>  
+         
+         
+         <label>Gender</label>
+         <input type="radio" name="gender">
+       <label>male</label>
+            
+          
+         <input type="radio" name="gender">
+       <label>female</label>
+         
+         <input type="radio" name="gender">
+       <label>others</label>
+          <br>  <br> 
+       <br>  <br>
+         <input type="checkbox">
+         <label>terms and conditions</label>
+          <br>  <br> 
+       <br>  <br>
+          <input type="submit">
+         
+         
+       </form>
+    </fieldset>
+  
+  
+  
+  
+</body>
+</html>
+
